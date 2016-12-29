@@ -29,11 +29,6 @@ $streams[3]['name']="M1";
 $streams[3]['url']="uNN6Pj06Cj8";
 $streams[3]['time']=3300*$m;
 
-// UNAVAILABLE
-// https://www.youtube.com/watch?v=mlwVFG10JaU
-$streams[4]['name']="M2";
-$streams[4]['url']="mlwVFG10JaU";
-$streams[4]['time']=3300*$m;
 
 // Mixhound - 24/7 Music Livestream · Chillstep · Melodic Dubstep · House · Chill Music · Futurebass
 // https://www.youtube.com/watch?v=dxVzsVFAw34
@@ -41,11 +36,7 @@ $streams[5]['name']="m3";
 $streams[5]['url']="dxVzsVFAw34";
 $streams[5]['time']=3300*$m;
 
-// Updated
-// https://www.youtube.com/watch?v=OlzeBNep6Pw
-$streams[6]['name']="S1";
-$streams[6]['url']="OlzeBNep6Pw";
-$streams[6]['time']=3300*$m;
+
 
 // 24/7 STREAM: 👽🌎 "EARTH FROM SPACE" ♥ NASA #SpaceTalk (2016) ISS HDVR | Subscribe now!
 // https://www.youtube.com/watch?v=UGPuEDyAsU8
