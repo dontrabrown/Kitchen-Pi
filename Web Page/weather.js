@@ -8,9 +8,9 @@
 function loadWeather(){
 
  $.simpleWeather({
-    location: 'Goderich, Canada',
-    woeid: '',
-    unit: 'c',
+    location: 'Portsmouth, Virgina',
+    woeid: '12767472',
+    unit: 'f',
     success: function(weather) {
 	city = weather.city;
 	temp = weather.temp+'&deg;C';
