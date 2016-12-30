@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set("Asia/Tokyo"); 
+date_default_timezone_set("USA/Eastern"); 
 $date= strtoupper(date("M jS l", time()));
 
 
@@ -17,16 +17,10 @@ $streams[1]['name']="ME";
 $streams[1]['url']="04jBi_yHyZw";
 $streams[1]['time']=3300*$m;
 
-// A
-// https://www.youtube.com/watch?v=gq11un3xqsA
-$streams[2]['name']="FN";
-$streams[2]['url']="gq11un3xqsA";
-$streams[2]['time']=3300*$m;
-
-// The Good Life Radio • 24/7 Music Live Stream | Deep & Tropical House | Chill Out | Dance Music Mix
-// https://www.youtube.com/watch?v=uNN6Pj06Cj8
-$streams[3]['name']="M1";
-$streams[3]['url']="uNN6Pj06Cj8";
+// LIVE WAVY TV 10
+// http://wavy.com/livestream/
+$streams[3]['name']="WT";
+$streams[3]['url']="http://wavy.com/livestream/";
 $streams[3]['time']=3300*$m;
 
 
