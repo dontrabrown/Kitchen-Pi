@@ -13,7 +13,7 @@ function loadWeather(){
     unit: 'f',
     success: function(weather) {
 	city = weather.city;
-	temp = weather.temp+'&deg;C';
+	temp = weather.temp+'&deg;F';
 	wcode = '<img class="weathericon" src="images/weathericons/' + weather.code + '.svg">';
 	wind = weather.wind.speed + ' ' + weather.units.speed;
 	humidity = weather.humidity + ' %';
