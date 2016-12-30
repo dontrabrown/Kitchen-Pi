@@ -18,9 +18,9 @@ $streams[1]['url']="04jBi_yHyZw";
 $streams[1]['time']=3300*$m;
 
 // LIVE WAVY TV 10
-// http://wavy.com/livestream/
+// http://https://livestream.com/accounts/1506344/events/1569186
 $streams[3]['name']="WT";
-$streams[3]['url']="http://wavy.com/livestream/";
+$streams[3]['url']="http://wavy.com/livestream/accounts/1506344/events/1569186/";
 $streams[3]['time']=3300*$m;
 
 
